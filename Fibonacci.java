@@ -1,6 +1,6 @@
 public class Fibonacci {
 
-    // Função recursiva para calcular o número de Fibonacci de forma eficiente
+    // Função recursiva para calcular o número de Fibonacci
     public static int fibonacci(int n) {
         if (n <= 1)
             return n;
