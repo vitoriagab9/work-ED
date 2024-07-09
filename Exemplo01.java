@@ -6,7 +6,7 @@ public class Exemplo01 {
     }
 
     public static int fatorial(int n) {
-        if (n == 0) {
+        if (n == 0) { //Caso base e condição de parada
             return 1;
         } else {
             return n * fatorial(n - 1);
