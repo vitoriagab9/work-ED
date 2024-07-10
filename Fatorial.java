@@ -1,4 +1,4 @@
-public class Exemplo01 {
+public class Fatorial {
     public static void main(String[] args) {
         int num = 3;
         int resultado = fatorial(num); // Calcula o fatorial de 3
